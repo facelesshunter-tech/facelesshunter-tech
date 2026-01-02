@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi, I am Emmanuel Uwa
+
+**Cybersecurity Engineer | Penetration Tester | Full-Stack Secure Developer | Cloud Engineer**
 
 <!--
 **facelesshunter-tech/facelesshunter-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I am Emmanuel Uwa
-
-*Cybersecurity Engineer | Penetration Tester | Full-Stack Secure Developer | Cloud Engineer*
 
 
-I'm a passionate cybersecurity practitioner and cloud-focused engineer with hands-on experience across offensive and defensive security. I love building secure systems from the ground up and finding creative, ethical ways to break them to make them stronger.
+
+I am a passionate cybersecurity practitioner and cloud-focused engineer with hands-on experience across offensive and defensive security. I love building secure systems from the ground up and finding creative, ethical ways to break them to make them stronger.
 
 I bridge the gap between offensive and defensive mindsets while delivering robust, secure web applications and cloud-native infrastructures.
 
