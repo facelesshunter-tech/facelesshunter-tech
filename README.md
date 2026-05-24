@@ -1,10 +1,10 @@
 Hi, I am Emmanuel Uwa
 
-**Cybersecurity Engineer | Penetration Tester | Full-Stack Secure Developer | Cloud Engineer**
+**Cybersecurity Engineer | Product Security Engineer | Full-Stack Secure Developer | Cloud Engineer | DEVSECOPS**
 
-I am a passionate cybersecurity practitioner and cloud-focused engineer with hands-on experience across offensive and defensive security. I love building secure systems from the ground up and finding creative, ethical ways to break them to make them stronger.
+I am a passionate cybersecurity practitioner and cloud-focused engineer with hands-on experience across offensive and defensive security. I love building secure systems and applications from the ground up and finding creative, ethical ways to break them to make them stronger.
 
-I bridge the gap between offensive and defensive mindsets while delivering robust, secure web applications and cloud-native infrastructures.
+I bridge the gap between offensive and defensive mindsets while delivering robust, secure applications and cloud-native infrastructures.
 
 My expertise lies in real-world impact: proactively identifying vulnerabilities before attackers can exploit them, and designing resilient defenses against sophisticated attacks.
 
